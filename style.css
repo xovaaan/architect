@@ -73,6 +73,7 @@
     margin: 250px 80px;
 }
 /* Second Part */
+
 .second-part{
     position: absolute;
     height: 100px;
@@ -119,6 +120,7 @@
     border: none;
     background-color: #FF8C00;
 }
+/* Third Part */
 .orange-color{
     height: 77px;
     width: 4px;
@@ -175,6 +177,8 @@
 .tens{
     font-size: 40px;
  }
+ /* Fourth Part */
+ 
 .fourth-part{
    margin-top: 90px;
 }
